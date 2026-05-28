@@ -126,9 +126,6 @@ Cuctus Stand - It is a Multi-purpose Stand That Look Like a Regular Cuctus but U
 ## License
 This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
 
-## Contributing
-Contributions, improvements, and remixes are welcome! Please read the [CONTRIBUTING.md](CONTRIBUTING.md) guide to get started.
-
 
 ## Credits
 This project uses:
