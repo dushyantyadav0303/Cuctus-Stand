@@ -13,7 +13,7 @@ Cuctus Stand - It is a Multi-purpose Stand That Look Like a Regular Cuctus but U
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 ![Project](https://img.shields.io/badge/Project-CAD-yellow.svg)
 ![Series](https://img.shields.io/badge/Series-Cuctus-lime.svg)
-![Devlog](https://img.shields.io/badge/Hackatime-17Hr4min-blue)
+![Devlog](https://img.shields.io/badge/Hackatime-6Hr33min-blue)
 
 </div>
 <p align="center">
